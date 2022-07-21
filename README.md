@@ -82,3 +82,7 @@ docker pull emcca029/fcalpha:latest
 ```
 docker run -it --gpus all fc-alpha /bin/bash 
 ```
+#### Switch to the developer user using 'admin' as password
+```
+su - developer
+```
