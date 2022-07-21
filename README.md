@@ -76,9 +76,9 @@ sudo apt-get -y install cuda
 
 #### To pull the container:
 ```
-docker pull emcca029/fc-devel:fcalpha
+docker pull emcca029/fcalpha:latest
 ```
 #### To run the container in WSL2:
 ```
-docker -it --gpus all fc-devel /bin/bash 
+docker -it --gpus all fc-alpha /bin/bash 
 ```
