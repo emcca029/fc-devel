@@ -86,3 +86,8 @@ docker run -it --gpus all fc-alpha /bin/bash
 ```
 su - developer
 ```
+#### Check your setup by running (see below):
+```
+pcmanfm
+```
+![Screenshot-pcmanfm](./img/pcmanfm.png)
