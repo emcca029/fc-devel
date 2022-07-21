@@ -1,0 +1,17 @@
+build-essential
+curl
+cmake
+gdb
+git
+sudo
+vim
+wget
+tree
+locate
+powerline
+fonts-powerline
+xterm
+lxtask
+pcmanfm
+htop
+cmake
