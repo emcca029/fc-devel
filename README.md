@@ -80,5 +80,5 @@ docker pull emcca029/fcalpha:latest
 ```
 #### To run the container in WSL2:
 ```
-docker -it --gpus all fc-alpha /bin/bash 
+docker run -it --gpus all fc-alpha /bin/bash 
 ```
